@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="alloc examples" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" singleton="false" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ipd12a" TARGET_NAME="alloc_examples" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ipd12a" RUN_TARGET_NAME="alloc_examples" TEST_MODE="SUITE_TEST">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      <option name="BeforeTestRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
