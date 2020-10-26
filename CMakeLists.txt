@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.3)
-project(ipd12a CXX)
+project(ipd13a CXX)
 include(.ipd/cmake/CMakeLists.txt)
 
 # A simple I/O example.
