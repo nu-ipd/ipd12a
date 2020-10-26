@@ -14,3 +14,13 @@ add_cxx_test_program(alloc_examples
 
 add_cxx_test_program(vector_examples
         test/vector_examples.cxx)
+
+
+# Exercises
+add_cxx_test_program(test_ipd13a-3
+        exercise/test_ipd13a-3.cxx
+        exercise/ipd13a-3.cxx)
+
+add_cxx_test_program(test_ipd13a-4
+        exercise/test_ipd13a-4.cxx
+        exercise/ipd13a-4.cxx)

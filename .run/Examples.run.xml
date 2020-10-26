@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Examples" type="CompoundRunConfigurationType">
+    <toRun name="vector examples" type="CMakeCatchTestRunConfigurationType" />
+    <toRun name="alloc examples" type="CMakeCatchTestRunConfigurationType" />
+    <toRun name="reference examples" type="CMakeCatchTestRunConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
