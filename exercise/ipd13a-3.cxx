@@ -7,7 +7,7 @@ namespace ipd {
  * affects this file. For more on Using-declarations, see
  * <https://en.cppreference.com/w/cpp/language/using_declaration>
  *
- * (You can K-click the link above in CLion to open it in a browse,
+ * (You can X-click the link above in CLion to open it in a browse,
  * where for X is Command on Mac, and [let me know] on Windows.)
  */
 using std::swap;
